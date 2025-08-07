@@ -1,26 +1,25 @@
-# test
+# TEST
 
 **Difficulty:** 🟢 Easy
 **Category:** algorithms
-**Tags:** ggg,gg
 
 ---
 
 ## Problem Description
 
-tsteef
+G
 
 ## Input Format
 
-sfeff
+GG
 
 ## Output Format
 
-ggggggggggg
+G
 
 ## Constraints
 
-ggggggggggggggggg
+G
 
 ## Examples
 
@@ -28,20 +27,22 @@ ggggggggggggggggg
 
 **Input:**
 ```
-gggggggggggggg
+G
 ```
 
 **Output:**
 ```
-gggggggggggggg
+G
 ```
 
-**Explanation:** gggggggggggg
+**Explanation:** G
 
 ## Solution
 
-ggggggggggggggggg
+67
 
 ---
+
+*created by siddu-k*
 
 *Created with CODEER Platform*
